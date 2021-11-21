@@ -48,3 +48,5 @@ while game_is_on:
 print("test")
 
 screen.exitonclick()
+
+print("test")
