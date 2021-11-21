@@ -45,4 +45,6 @@ while game_is_on:
             score.reset_max_score()
             snake.dead()
 
+print("test")
+
 screen.exitonclick()
